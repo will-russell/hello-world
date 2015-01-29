@@ -1,2 +1,6 @@
-# hello-world
-Beginning repository created during intro
+hello-world
+===========
+
+Hi humans!
+
+This repository was created following the steps outlined in the tutorial/introduction to GitHub.
